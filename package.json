@@ -12,9 +12,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.16",
+    "@vuepress/plugin-nprogress": "^1.9.9",
     "vuepress": "^1.9.9",
+    "vuepress-plugin-comment": "^0.7.3",
     "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-nuggets-style-copy": "^1.0.3",
     "vuepress-plugin-sakura": "^1.2.1",
     "vuepress-theme-reco": "^1.6.17"
+  },
+  "dependencies": {
+    "vuepress-plugin-cat": "^1.0.3",
+    "vuepress-plugin-helper-live2d": "^1.0.2",
+    "yarn": "^1.22.19"
   }
 }
