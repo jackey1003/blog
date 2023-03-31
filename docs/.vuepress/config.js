@@ -3,6 +3,7 @@ module.exports = {
   title: "JackeyWang的博客",
   base: "/blog/",
   description: "言念君子，温其如玉。",
+  head: [["link", { rel: "icon", href: "avatar.jpg" }]],
   locales: {
     "/": {
       lang: "zh-CN",
@@ -289,6 +290,6 @@ module.exports = {
           path: "<%- frontmatter.to.path %>",
         },
       },
-    ]
+    ],
   ],
 };
