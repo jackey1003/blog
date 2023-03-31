@@ -2,7 +2,7 @@
 module.exports = {
   title: "JackeyWang的博客",
   base: "/blog/",
-  description: "一条努力向上的闲鱼",
+  description: "言念君子，温其如玉。",
   locales: {
     "/": {
       lang: "zh-CN",
