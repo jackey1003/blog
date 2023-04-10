@@ -18,6 +18,7 @@ module.exports = {
         items: [
           { text: "掘金", link: "https://juejin.cn/user/3417743457520461" },
           { text: "Github", link: "https://github.com/jackey1003" },
+          { text: "CSDN", link: "https://blog.csdn.net/jackey254" }
         ],
       },
     ],
